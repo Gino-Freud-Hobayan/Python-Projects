@@ -1,4 +1,17 @@
-# Loan-Calculator-Pyton
+# Python Projects
+Compilation of various small Python projects I've done using Python where I was able to practice on using Functions, Loops, and Conditional Statements.
+
+Includes:
+- Simple Loan Calculator
+- Palindrome Checker
+- Prime Number Checker
+- Fibonacci Sequence
+- Factorial Calculator
+
+<br> <br>
+
+
+### Simple Loan Calculator
 
 Me and my Groupmates made a Simple Loan Calculator in Python during our 6-week Python Bootcamp.
 
